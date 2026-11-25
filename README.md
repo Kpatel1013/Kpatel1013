@@ -1,4 +1,4 @@
-##Hi, I'm Keshav 👋
+Hi, I'm Keshav 👋
 
 I'm a Computer Science student at the University of Illinois Chicago ('28), and my path into software started with competitive robotics. I wrote WPILib Java for FIRST Robotics Team Axiom 4787, then led a 5-person team as a Summer Robotics Programming Intern through CPS, building autonomous and teleop code and AprilTag-based localization for an FTC robot. Today I'm a programmer on UIC's Lunabotics team and a member of the Chicago Student Engineering Design Team.
 
